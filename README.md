@@ -48,6 +48,7 @@ DermAI/
 constitute medical advice. Always consult a qualified dermatologist.
 
 ## Author
-Jitesh — [LinkedIn](https://www.linkedin.com/in/jitesh-p-b45351153/))
+Jitesh — [LinkedIn](https://www.linkedin.com/in/jitesh-p-b45351153/)
+
 
 

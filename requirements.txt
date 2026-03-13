@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+langchain-core
+langgraph
+python-dotenv
+langchain-community
+langchain_google_genai
+dotenv
+groq
+sounddevice 
+scipy 
+openai-whisper
